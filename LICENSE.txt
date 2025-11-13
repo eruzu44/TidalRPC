@@ -1,0 +1,17 @@
+Copyright (c) 2025 No_eruzu
+
+This software is licensed under the Non-Commercial No-Derivatives Software License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software, to use and redistribute it, subject to the following conditions:
+
+1. **Non-Commercial Use Only**  
+   You may use this software only for personal or non-commercial purposes. Any commercial use is strictly prohibited without prior written permission from the copyright holder.
+
+2. **No Modifications**  
+   You may not modify, adapt, translate, or create derivative works based on this software.
+
+3. **Redistribution**  
+   You may redistribute this software in its original form only, and it must remain under this same license.
+
+**Disclaimer of Warranty**  
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
