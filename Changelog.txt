@@ -1,0 +1,75 @@
+Changelog
+
+[2.8.0](13.11.2025)
+
+- Changed Google Drive to GitHub
+- Added auto update checker
+- Removed bugs
+
+[2.7.2 - FINAL](07.11.2025)
+
+- Decreased tidalrpc.exe size to 8KB uncompiled
+- Redesigned System Tray Functionality
+- Added additional System Tray functions
+
+[2.7.2 - BETA](03.11.2025)
+
+- Added System Tray Functionality
+- Added Pause, Resume and functions for the RPC
+
+[2.7.1](29.10.2025)
+
+- Added full background functionality
+- Starts at boot
+- removed all terminals
+- added registry addition
+
+Known Bugs:
+
+- Sometimes the timestamp is faulty.
+- tidalrpc.exe won't launch always.
+
+[2.6.0](10.10.2025)
+
+- Reworked the "Artist" button
+- Fixed 404 error
+- Optimized the script
+
+Known Bugs:
+
+- [PY ERROR] Exception ignored in: <function _ProactorBasePipeTransport.__del__ at 0x0000028F3045F740>
+- [PY ERROR] Traceback (most recent call last):
+- [PY ERROR]   File "asyncio\proactor_events.py", line 116, in __del__
+- [PY ERROR]   File "asyncio\proactor_events.py", line 80, in __repr__
+- [PY ERROR]   File "asyncio\windows_utils.py", line 102, in fileno
+- [PY ERROR] ValueError: I/O operation on closed pipe
+- [PY ERROR] Exception ignored in: <function _ProactorBasePipeTransport.__del__ at 0x0000028F3045F740>
+- [PY ERROR] Traceback (most recent call last):
+- [PY ERROR]   File "asyncio\proactor_events.py", line 116, in __del__
+- [PY ERROR]   File "asyncio\proactor_events.py", line 80, in __repr__
+- [PY ERROR]   File "asyncio\windows_utils.py", line 102, in fileno
+- [PY ERROR] ValueError: I/O operation on closed pipe
+- [PY ERROR] Exception ignored in: <function _ProactorBasePipeTransport.__del__ at 0x0000028F3045F740>
+- [PY ERROR] Traceback (most recent call last):
+- [PY ERROR]   File "asyncio\proactor_events.py", line 116, in __del__
+- [PY ERROR]   File "asyncio\proactor_events.py", line 80, in __repr__
+- [PY ERROR]   File "asyncio\windows_utils.py", line 102, in fileno
+- [PY ERROR] ValueError: I/O operation on closed pipe
+
+- Artist search only works when logged in
+
+[2.5.1](25.09.2025)
+
+- Renamed "Add Bot" to "Get TidalRPC
+- Added a new icon to tidalrpc.exe
+- Published TidalRPC on Google Sites
+
+[2.5](25.09.2025)
+
+- Added new button to RPC
+- Artist now discoverable via RPC
+
+Known Bugs:
+
+- [PY ERROR] [PY ERROR] TIDAL search failed (404):
+- New button leads to Tidal main page
