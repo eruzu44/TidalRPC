@@ -1,5 +1,9 @@
 Changelog
 
+[2.8.1](14.11.2025)
+
+- Added Main Directory Option to System Tray
+
 [2.8.0](13.11.2025)
 
 - Changed Google Drive to GitHub
