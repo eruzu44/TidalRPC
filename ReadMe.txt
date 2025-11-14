@@ -24,9 +24,11 @@ How to Use (If you didn't activate automatic launch):
 - Choose your desired function
 
 How to Update:
-- Stop TidalRPC via System Tray.
-- Execute the newly downloaded installer.
-- Start the install even when the directory already exists. It will be overwritten.
+(- Close TidalRPC (only applies to v2.8.1 or lower))
+(- If you have v2.8.1 or lower, get the new installer manually from GitHub and execute it.)
+- Click yes on the Auto Update Popup.
+- Execute the newly downloaded TidalRPC_Setup.exe
+- Run the setup and launch it at start.
 
 How to delete:
 Delete it via the uninstaller also located within the TidalRPC folder.
