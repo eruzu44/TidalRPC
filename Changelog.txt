@@ -1,5 +1,11 @@
 Changelog
 
+[2.9.0](18.11.2025)
+
+- Fixed issues regarding Auto Update
+- Added more features to System Tray
+- Restructured Json Folder
+
 [2.8.3](16.11.2025)
 
 - Fixed version mismatch
