@@ -1,6 +1,6 @@
 TidalRPC is a program used to catch the RPC of the music streaming service Tidal.
 TidalRPC is not affiliated in any way with TIDAL.
-With Update 2.8.0 the program can check for updates automatially.
+With version 2.9.0 more functionality is brought to TidalRPC!
 The program can be controled via System Tray.
 
 If you haven't eneabled start on startup within the setup you need to do following steps to start the script:
@@ -32,6 +32,7 @@ How to Update:
 
 How to delete:
 Delete it via the uninstaller also located within the TidalRPC folder.
+* "TidalRPC\Json\update_info.json" won't be deleted. Manual deletion is required.
 
 FYI:
 This program was made with Python and C#.
