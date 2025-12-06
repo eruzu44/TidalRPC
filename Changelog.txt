@@ -1,5 +1,11 @@
 Changelog
 
+[2.9.5](06.12.2025)
+
+- Added restart button
+- Removed artist search
+- Added Discord Button
+
 [2.9.0](18.11.2025)
 
 - Fixed issues regarding Auto Update
