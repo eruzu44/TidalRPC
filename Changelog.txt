@@ -1,5 +1,21 @@
 Changelog
 
+[3.1.1](04.06.2026)
+
+- Fixed Modules
+
+[3.1.0](04.05.2026)
+
+- Optimized Performance
+- Reduced Python Code
+- Deleted Development Parts
+
+[3.0.0](05.01.2026)
+
+- Fixed Large and Small Image
+- Removed multiple CLIENT_ID dependency
+- Removed artist specific image
+
 [2.9.5](06.12.2025)
 
 - Added restart button

@@ -1,11 +1,11 @@
 TidalRPC is a program used to catch the RPC of the music streaming service Tidal.
 TidalRPC is not affiliated in any way with TIDAL.
-With version 2.9.0 more functionality is brought to TidalRPC!
+With version 3.1.1 more stability and design is brought to TidalRPC!
 The program can be controled via System Tray.
 
 If you haven't eneabled start on startup within the setup you need to do following steps to start the script:
 - Open the the search and type TidalRPC, if nothing appears, use the () option
-(- Go to the TidalRPC folder (usually located here: "C:\Users\YOURUSER\AppData\Local\Programs\Tidal RPC")
+(- Go to the TidalRPC folder (usually located here: "C:\Users\YOURUSER\AppData\Local\Programs\Tidal RPC"))
 (- Execute SMTCReader.exe)
 Now TidalRPC should run in the background. If you now start Discord and Tidal, the program should automatically detect the song.
 
@@ -36,3 +36,25 @@ Delete it via the uninstaller also located within the TidalRPC folder.
 
 FYI:
 This program was made with Python and C#.
+Python Libraries:
+-  time
+-  win32gui
+-  win32process
+-  psutil
+-  pypresence
+-  pathlib
+-  sys
+-  os
+-  atexit
+-  json
+-  re
+-  asyncio
+-  warnings
+-  requests
+-  webbrowser
+-  threading
+-  urllib
+-  traceback
+-  tempfile
+-  subprocess
+-  tkinter
